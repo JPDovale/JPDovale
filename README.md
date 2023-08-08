@@ -1,7 +1,7 @@
 ## Olá pessoas! Eu sou o João Paulo! Sejá bem vindo(a) ao meu GitHub
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPDovale&show_icons=true&theme=highcontrast&show=reviews)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPDovale&langs_count=9&layout=compact&theme=highcontrast)](https://github.com/username/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPDovale&show_icons=true&theme=highcontrast&show=reviews&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPDovale&langs_count=9&layout=compact&theme=highcontrast)](https://github.com/JPDovale/github-readme-stats)
 
 ##
 
