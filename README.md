@@ -8,8 +8,8 @@
    No entanto, nunca esqueci meu amor pelo desenvolvimento. Mais tarde, retomei meus estudos de programação, focando no desenvolvimento web no qual tenho dedicado meu tempo a mais de dois anos. Agora, com acesso a recursos adequados, estou    ansioso para aproveitar meu entusiasmo e habilidades para contribuir para com projetos desafiadores. Acredito que a busca contínua de conhecimento é essencial para um programador, e estou comprometido com essa jornada.
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPDovale&show_icons=true&theme=highcontrast&show=reviews&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPDovale&langs_count=9&layout=compact&theme=highcontrast)](https://github.com/JPDovale/github-readme-stats)
+   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPDovale&show_icons=true&theme=highcontrast&show=reviews&include_all_commits=true)
+   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPDovale&langs_count=9&layout=compact&theme=highcontrast)](https://github.com/JPDovale/github-readme-stats)
 
 ##
 
