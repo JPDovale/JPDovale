@@ -1,16 +1,14 @@
 ## Olá pessoas! Eu sou o João Paulo! Sejá bem vindo(a) ao meu GitHub
 
-
-
 <div style="text-align:justify">
-   Olá! Sou João Paulo do Vale, um apaixonado pela computação desde a infância, quando tive meu primeiro contato com jogos. Minha curiosidade incontrolável me levou a explorar a tecnologia e, aos 12 anos, tive meu primeiro contato com programação, desenvolvendo mods para Minecraft. 
+   Olá! Sou João Paulo do Vale, um apaixonado pela computação desde a infância, quando tive meu primeiro contato com jogos. Minha curiosidade incontrolável me levou a explorar a tecnologia e, aos 12 anos, tive meu primeiro contato com         programação, desenvolvendo mods para Minecraft. 
 
-Embora meus estudos tenham sido interrompidos temporariamente devido à falta de recursos, minha determinação persistiu. Consertei um computador quebrado e continuei a explorar minha sede de conhecimento em diversas áreas, incluindo desenho, xadrez, vôlei e escrita, na qual cheguei a publicar 5 livros. 
+   Embora meus estudos tenham sido interrompidos temporariamente devido à falta de recursos, minha determinação persistiu. Consertei um computador quebrado e continuei a explorar minha sede de conhecimento em diversas áreas, incluindo         desenho, xadrez, vôlei e escrita, na qual cheguei a publicar 5 livros. 
 
-No entanto, nunca esqueci meu amor pelo desenvolvimento. Mais tarde, retomei meus estudos de programação, focando no desenvolvimento web no qual tenho dedicado meu tempo a mais de dois anos. Agora, com acesso a recursos adequados, estou ansioso para aproveitar meu entusiasmo e habilidades para contribuir para com projetos desafiadores. Acredito que a busca contínua de conhecimento é essencial para um programador, e estou comprometido com essa jornada.
-    </div>
+   No entanto, nunca esqueci meu amor pelo desenvolvimento. Mais tarde, retomei meus estudos de programação, focando no desenvolvimento web no qual tenho dedicado meu tempo a mais de dois anos. Agora, com acesso a recursos adequados, estou    ansioso para aproveitar meu entusiasmo e habilidades para contribuir para com projetos desafiadores. Acredito que a busca contínua de conhecimento é essencial para um programador, e estou comprometido com essa jornada.
+</div>
 
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPDovale&show_icons=true&theme=highcontrast&show=reviews&include_all_commits=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JPDovale&show_icons=true&theme=highcontrast&show=reviews&include_all_commits=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JPDovale&langs_count=9&layout=compact&theme=highcontrast)](https://github.com/JPDovale/github-readme-stats)
 
 ##
